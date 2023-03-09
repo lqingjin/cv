@@ -14,8 +14,6 @@
 
 原创不易！如果喜欢本项目，请 Star 它以示对我的支持~
 
-同时欢迎前往 [我的博客](https://paugram.com/about.html#donate) 为我提供赞助，谢谢您！
-
 ## 使用的开源项目
  - [Kico Style](https://github.com/Dreamer-Paul/Kico-Style)
  - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
